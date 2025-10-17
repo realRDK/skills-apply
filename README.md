@@ -1,1 +1,1 @@
-This repository showcases how repository management functions.
+This repository showcases the basics of repository management.
